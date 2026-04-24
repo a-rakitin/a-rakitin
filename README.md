@@ -1,7 +1,7 @@
 ## Hi, I'm Alex 👋
 
-I'm a software developer.
+Software developer
 
-## Contact
+## Email
 
-Email: a.rakitin24@yandex.ru
+a.rakitin24@yandex.ru
