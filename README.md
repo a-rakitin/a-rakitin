@@ -4,8 +4,8 @@ Software developer
 
 ## Contacts
 
-https://t.me/rakitin_dev
+[Telegram](https://t.me/rakitin_dev)
 
 a.rakitin24@yandex.ru
 
-https://rakitin.tech
+[rakitin.tech](https://rakitin.tech)
